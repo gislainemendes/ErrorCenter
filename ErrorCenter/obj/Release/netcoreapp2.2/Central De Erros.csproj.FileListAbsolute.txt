@@ -1,0 +1,20 @@
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Release\netcoreapp2.2\Central De Erros.deps.json
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Release\netcoreapp2.2\Central De Erros.runtimeconfig.json
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Release\netcoreapp2.2\Central De Erros.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Release\netcoreapp2.2\Central De Erros.dll
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Release\netcoreapp2.2\Central De Erros.pdb
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Release\netcoreapp2.2\Central De Erros.xml
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Release\netcoreapp2.2\Central De Erros.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Release\netcoreapp2.2\Central De Erros.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Release\netcoreapp2.2\Central De Erros.RazorAssemblyInfo.cache
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Release\netcoreapp2.2\Central De Erros.RazorAssemblyInfo.cs
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Release\netcoreapp2.2\Central De Erros.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Release\netcoreapp2.2\Central De Erros.AssemblyInfo.cs
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Release\netcoreapp2.2\Central De Erros.RazorTargetAssemblyInfo.cache
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Release\netcoreapp2.2\Central De Erros.dll
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Release\netcoreapp2.2\Central De Erros.xml
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Release\netcoreapp2.2\Central De Erros.pdb
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Release\netcoreapp2.2\Central De Erros.genruntimeconfig.cache

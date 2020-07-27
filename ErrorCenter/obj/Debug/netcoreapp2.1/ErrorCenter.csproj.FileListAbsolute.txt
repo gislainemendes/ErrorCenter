@@ -1,0 +1,42 @@
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Debug\netcoreapp2.1\ErrorCenter.deps.json
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Debug\netcoreapp2.1\ErrorCenter.runtimeconfig.json
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Debug\netcoreapp2.1\ErrorCenter.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Debug\netcoreapp2.1\ErrorCenter.dll
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Debug\netcoreapp2.1\ErrorCenter.pdb
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\bin\Debug\netcoreapp2.1\ErrorCenter.xml
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Debug\netcoreapp2.1\ErrorCenter.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Debug\netcoreapp2.1\ErrorCenter.RazorAssemblyInfo.cache
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Debug\netcoreapp2.1\ErrorCenter.RazorAssemblyInfo.cs
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Debug\netcoreapp2.1\ErrorCenter.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Debug\netcoreapp2.1\ErrorCenter.AssemblyInfo.cs
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Debug\netcoreapp2.1\ErrorCenter.RazorTargetAssemblyInfo.cache
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Debug\netcoreapp2.1\ErrorCenter.dll
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Debug\netcoreapp2.1\ErrorCenter.xml
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Debug\netcoreapp2.1\ErrorCenter.pdb
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Debug\netcoreapp2.1\ErrorCenter.genruntimeconfig.cache
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Debug\netcoreapp2.1\ErrorCenter.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Central De Erros\Central De Erros\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\bin\Debug\netcoreapp2.1\ErrorCenter.deps.json
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\bin\Debug\netcoreapp2.1\ErrorCenter.runtimeconfig.json
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\bin\Debug\netcoreapp2.1\ErrorCenter.runtimeconfig.dev.json
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\bin\Debug\netcoreapp2.1\ErrorCenter.dll
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\bin\Debug\netcoreapp2.1\ErrorCenter.pdb
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\bin\Debug\netcoreapp2.1\ErrorCenter.xml
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\obj\Debug\netcoreapp2.1\ErrorCenter.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\obj\Debug\netcoreapp2.1\ErrorCenter.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\obj\Debug\netcoreapp2.1\ErrorCenter.RazorAssemblyInfo.cache
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\obj\Debug\netcoreapp2.1\ErrorCenter.RazorAssemblyInfo.cs
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\obj\Debug\netcoreapp2.1\ErrorCenter.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\obj\Debug\netcoreapp2.1\ErrorCenter.AssemblyInfo.cs
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\obj\Debug\netcoreapp2.1\ErrorCenter.RazorTargetAssemblyInfo.cache
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\obj\Debug\netcoreapp2.1\ErrorCenter.dll
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\obj\Debug\netcoreapp2.1\ErrorCenter.xml
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\obj\Debug\netcoreapp2.1\ErrorCenter.pdb
+C:\Users\felip\source\repos\ErrorCenter\ErrorCenter\obj\Debug\netcoreapp2.1\ErrorCenter.genruntimeconfig.cache

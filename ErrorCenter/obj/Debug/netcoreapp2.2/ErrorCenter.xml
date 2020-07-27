@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ErrorCenter</name>
+    </assembly>
+    <members>
+        <member name="M:Central_De_Erros.Controllers.ErrorsController.GetErrorByLevel(System.String)">
+            <summary> Return a list of registered errors by level </summary>
+            <param name="level"></param>
+            <response code="200">If an error with this level exists</response>
+            <response code="204">This search did not find results</response>
+            <response code="400">The level doesn't exist</response> 
+        </member>
+        <member name="M:Central_De_Erros.Controllers.ErrorsController.GetErrorByDescription(System.String)">
+            <summary> Return a list of registered errors by log description </summary>
+            <param name="description"></param>
+            <response code="200">If an error with this log description exists</response>
+            <response code="204">This search did not find results</response>
+            <response code="400">The log description doesn't exist</response>  
+        </member>
+        <member name="M:Central_De_Erros.Controllers.ErrorsController.GetErrorByIpOrigin(System.String)">
+            <summary> Return a list of registered errors by Ip origin </summary>
+            <param name="IpOrigin"></param>
+            <response code="200">If an error with this Ip origin exists</response>
+            <response code="204">This search did not find results</response>
+            <response code="400">The Ip origin doesn't exist</response>  
+        </member>
+        <member name="M:Central_De_Erros.Controllers.ErrorsController.EnvironmentOrderedByLevel(System.String)">
+            <summary> Return a list of registered errors by environment and ordered by level </summary>
+            <param name="environment"></param>
+            <response code="200">If an error with this environment exists</response>
+            <response code="204">This search did not find results</response>
+            <response code="400">The environment doesn't exist</response>  
+        </member>
+        <member name="M:Central_De_Erros.Controllers.ErrorsController.EnvironmentOrderedByFrequency(System.String)">
+            <summary> Return a list of registered errors select by environment. This list is ordered by number of repeated events which are defined by a description </summary>
+            <param name="environment"></param>
+            <response code="200">If an error with this environment exists</response>
+            <response code="204">This search did not find results</response>
+            <response code="400">The environment doesn't exist</response>  
+        </member>
+        <member name="M:Central_De_Erros.Controllers.ErrorsController.GetAllByEnvironment(System.String)">
+            <summary> Return a list of registered errors select by environment </summary>
+            <param name="environment"></param>
+            <response code="200">If an error with this environment exists</response>
+            <response code="204">This search did not find results</response>
+            <response code="400">The environment doesn't exist</response>  
+        </member>
+        <member name="M:Central_De_Erros.Controllers.ErrorsController.DeleteError(System.Int32)">
+            <summary> Delete an error by Id </summary>
+            <param name="id"></param>
+            <returns>The error was deleted</returns>
+            <response code="200">The error was deleted</response>
+            <response code="400">The error doesn't exist</response> 
+        </member>
+        <member name="M:Central_De_Erros.Controllers.ErrorsController.SaveError(Central_De_Erros.DTOs.ErrorDTO)">
+            <summary> Creates an error </summary>
+            <returns>The error was created</returns>
+            <response code="201">The error was created</response>
+            <response code="400">The information is invalid</response> 
+        </member>
+        <member name="M:Central_De_Erros.Controllers.ErrorsController.FindError(System.Int32)">
+            <summary> Return an error by Id </summary>
+            <returns>The error was created</returns>
+            <response code="200">An error with this Id was found</response>
+            <response code="204">No content</response> 
+        </member>
+        <member name="M:Central_De_Erros.Controllers.ErrorsController.ArchiveById(System.Int32)">
+            <summary>Archive an error by id</summary>
+            <returns>The error was created</returns>
+            <response code="200">The error was archived</response>
+            <response code="204">No content</response>
+        </member>
+        <member name="M:Central_De_Erros.Controllers.UserController.Post(Central_De_Erros.ViewModel.UserViewModel)">
+             <summary>
+             Creates an user.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /api/User
+                 {
+                     "name": "Antonio",
+                     "lastName": "Almeida",
+                     "email": "Antonio@Antonio.com",
+                     "password": "Antonio@123",
+                     "confirmThePassword": "Antonio@123"
+                 }
+            
+             </remarks>
+             <param name="user"></param>
+             <returns>A new user was created</returns>
+             <response code="200">User has been created</response>
+             <response code="400">If the user is null</response>            
+        </member>
+        <member name="M:Central_De_Erros.Controllers.UserController.ConfirmEmail(System.String,System.String)">
+            <summary>
+            Email confirmation
+            </summary>
+            <response code="200">Your email has been confirmed</response>
+            <response code="400">An error has occurred. The email still needs to be confirmed</response>            
+        </member>
+        <member name="M:Central_De_Erros.Controllers.UserController.Login(Central_De_Erros.ViewModel.LoginViewModel)">
+            <summary>
+            Login
+            </summary>
+            <response code="200">Successful login</response>
+            <response code="400">Unsuccessful login</response>
+        </member>
+        <member name="M:Central_De_Erros.Controllers.UserController.ForgotPassword(Central_De_Erros.ViewModel.ForgotPasswordViewModel)">
+            <summary>
+            Generates token that is sent to user's email to change password
+            </summary>
+            <response code="200">Token successfully sent</response>
+            <response code="404">User email not found</response>
+        </member>
+        <member name="M:Central_De_Erros.Controllers.UserController.ResetPassword(Central_De_Erros.ViewModel.ResetPasswordView)">
+             <summary>
+             Enter the token to change the password
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /api/User/ResetPassword
+                 {
+                     "email": "Antonio",
+                     "token": "123456",
+                     "password": "Antonio123_",
+                     "confirmThePassword": "Antonio123_"
+                 }
+            
+             </remarks>
+             <response code="200">Password has been changed</response>
+             <response code="400">An error has occurred</response>
+        </member>
+    </members>
+</doc>
