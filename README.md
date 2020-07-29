@@ -1,7 +1,5 @@
-# Central_De_Erros
+# Central de Erros
 Repositório para projeto final da Aceleração Codenation
-
-Central de Erros
 
 Objetivo
 
